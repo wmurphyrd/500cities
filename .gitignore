@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+shapes/*
+census/*
+*.csv
+*.png
